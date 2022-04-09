@@ -1,4 +1,4 @@
-<div align="center" style="display:flex; flex-direction:column; justify-content:center; gap:0.5em">
+<div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=anactualfox&count_private=true&show_icons=true&theme=gruvbox"
       width="600"
